@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sarvco.github.io/sarv-website/sitemap.xml
